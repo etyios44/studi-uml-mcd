@@ -6,3 +6,7 @@ liens vers les graphes demandés pour le TP :
 
 [MCD](https://drive.google.com/file/d/1Hr8sjOOHh3M9BnjBMpaprlp5_p7S9J_t/view?usp=sharing)
 
+et le script SQL de construction des tables : 
+
+[SQL](./studi-resa-cinema.sql)
+
